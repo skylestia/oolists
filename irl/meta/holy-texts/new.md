@@ -1,4 +1,4 @@
-#New-Religious Movements and New-Age Traditions ---**
+#New-Religious Movements and New-Age Traditions
 
 __**Aretéanism**__
 - [What is Aretéanism?](<https://static1.squarespace.com/static/56d3f47162cd9444cfd30870/t/641cea64ac9fb5486d2e9c86/1679616614908/What_is_Areteanism_v3.pdf>)
