@@ -1,8 +1,9 @@
-<head>
-    <title>OOLists: Holy Texts</title>
-</head>
+---
+layout: default
+title: OOlists: Holy Texts
+---
 
-This page: https://skylestia.github.io/oolists/irl/meta/holy-texts/
+This page: [https://skylestia.github.io/oolists/irl/meta/holy-texts/](https://skylestia.github.io/oolists/irl/meta/holy-texts/)
 
 Read the scriptures and holy texts of world religions online, free.
 
