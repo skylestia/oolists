@@ -1,14 +1,15 @@
-<head>
-    <title>OOLists: Holy Texts: Folk Religions</title>
-</head>
+---
+layout: default
+title: OOlists: Holy Texts: Folk Religions
+---
 
 # Folk Religions
 
-<b><u>Taoism</u></b>
+## Taoism
 - [Tao Te Ching](<https://www.taoistic.com/taoteching-laotzu/>)
 
-Shinto
-Vodou
+## Shinto
+## Vodou
 
-<b><u>Zoroastrianism</u></b>
+## Zoroastrianism
 - [The Avesta](<https://sacred-texts.com/zor/sbe04/index.htm>) (primary scripture)

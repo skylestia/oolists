@@ -1,6 +1,7 @@
-<head>
-    <title>OOLists: Holy Texts: Abrahamic Religions</title>
-</head>
+---
+layout: default
+title: OOlists: Holy Texts: Abrahamic Religions
+---
 
 # Abrahamic Religions
 
