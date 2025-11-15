@@ -1,6 +1,6 @@
-#Abrahamic Religions
+# Abrahamic Religions
 
-###**Christianity
+### Christianity
 
 **Primary Scriptures:**
 
@@ -24,13 +24,13 @@ __Protestantism:__
 - [Paradise Lost](<https://www.gutenberg.org/cache/epub/26/pg26-images.html>)
 - [Summa Theologiae](<https://www.newadvent.org/summa/>)
 
-__**Baha'i**__
+<u>**Baha'i**</u>
 
-__**Islam**__
+<u>**Islam**</u>
 - [Quran](<https://quran.com/en>) (primary scripture)
 - [Seerah of Muhammad](<https://www.islamicstudiesresources.com/uploads/1/9/8/1/19819855/seerah_book_by_shaykh_siddeeq.pdf>)
 
-__**Judaism**__
+<u>**Judaism**</u>
 - [Tanakh](<https://www.chabad.org/library/bible_cdo/aid/63255/jewish/The-Bible-with-Rashi.htm>) (primary scripture)
 - [Megillah](<https://www.chabad.org/media/pdf/273/LuRF2731060.pdf>)
 - [Mishnah](<https://www.sefaria.org/texts/Mishnah>)
