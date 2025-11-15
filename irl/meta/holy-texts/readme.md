@@ -1,3 +1,7 @@
+<head>
+    <title>OOLists: Holy Texts</title>
+</head>
+
 This page: https://skylestia.github.io/oolists/irl/meta/holy-texts/
 
 Read the scriptures and holy texts of world religions online, free.

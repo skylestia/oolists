@@ -1,8 +1,12 @@
+<head>
+    <title>OOLists: Holy Texts: Pagan Religions</title>
+</head>
+
 # Pagan Religions
 
 Druidism
 
-<u>**Heathenry**</u>
+**<u>Heathenry</u>**
 - [The Prose Edda](<https://ia600507.us.archive.org/1/items/proseedda00snor/proseedda00snor.pdf>)
 - [The Hávamál](<https://www.voluspa.org/havamal.htm>)
 
