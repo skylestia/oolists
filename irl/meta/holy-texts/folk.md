@@ -4,11 +4,11 @@
 
 # Folk Religions
 
-**<u>Taoism</u>**
+<b><u>Taoism</u></b>
 - [Tao Te Ching](<https://www.taoistic.com/taoteching-laotzu/>)
 
 Shinto
 Vodou
 
-**<u>Zoroastrianism</u>**
+<b><u>Zoroastrianism</u></b>
 - [The Avesta](<https://sacred-texts.com/zor/sbe04/index.htm>) (primary scripture)
