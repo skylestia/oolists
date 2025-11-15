@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OOlists: Holy Texts
+title: OOlists - Holy Texts
 ---
 
 This page: [https://skylestia.github.io/oolists/irl/meta/holy-texts/](https://skylestia.github.io/oolists/irl/meta/holy-texts/)

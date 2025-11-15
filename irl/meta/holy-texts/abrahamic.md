@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OOlists: Holy Texts: Abrahamic Religions
+title: OOlists - Holy Texts: Abrahamic Religions
 ---
 
 # Abrahamic Religions
