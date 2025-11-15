@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OOlists - Holy Texts: Dharmic Religion
+title: OOlists - Holy Texts - Dharmic Religion
 ---
 
 # Dharmic Religions

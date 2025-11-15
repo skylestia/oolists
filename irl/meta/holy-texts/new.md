@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OOlists - Holy Texts: New-Religious Movements and New-Age Traditions
+title: OOlists - Holy Texts - New-Religious Movements and New-Age Traditions
 ---
 
 # New-Religious Movements and New-Age Traditions
