@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Holy Texts - Folk Religions
+title: Folk Religions | Holy Texts
 ---
 
 # Folk Religions

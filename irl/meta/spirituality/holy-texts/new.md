@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Holy Texts - New-Religious Movements and New-Age Traditions
+title: New-Religious Movements and New-Age Traditions | Holy Texts
 ---
 
 # New-Religious Movements and New-Age Traditions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Holy Texts - Cults
+title: Cults | Holy Texts
 ---
 
 # Cults

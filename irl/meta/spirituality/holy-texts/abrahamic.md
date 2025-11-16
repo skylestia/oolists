@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Holy Texts -  - Abrahamic Religions
+title: Abrahamic Religions | Holy Texts
 ---
 
 # Abrahamic Religions

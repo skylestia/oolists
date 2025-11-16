@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Holy Texts - Dharmic Religion
+title: Dharmic Religion | Holy Texts
 ---
 
 # Dharmic Religions

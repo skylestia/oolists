@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Holy Texts - Pagan Religions
+title: Pagan Religions | Holy Texts
 ---
 
 # Pagan Religions
