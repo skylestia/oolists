@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OOlists - Holy Texts - Folk Religions
+title: Holy Texts - Folk Religions
 ---
 
 # Folk Religions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OOlists - Holy Texts - Cults
+title: Holy Texts - Cults
 ---
 
 # Cults

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OOlists - Holy Texts - Pagan Religions
+title: Holy Texts - Pagan Religions
 ---
 
 # Pagan Religions
