@@ -35,3 +35,5 @@ a:hover {text-decoration: underline;}
         box-shadow: #000 0 0 10px;
     }
 }
+@media only screen and (max-width: 1000px) {.markdown-body {min-width: 90vw;}}
+@media only screen and (max-width: 600px) {.markdown-body {min-width: 85vw;}}
