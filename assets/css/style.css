@@ -4,20 +4,34 @@ body {
     min-height: 100vh;
     flex-wrap: wrap;
     font-family: Roboto;
-    background: #f0f9fe;
-    background: radial-gradient(circle, #f0f9fe 70%, #8e989c 100%);
+    background: #a6cef6;
+    background: radial-gradient(circle, #a6cef6 70%, #63a7c3 100%);
 }
+a {color: #0068e9;text-decoration: none;}
+a:visited {color: #bc14bc;}
+a:hover {text-decoration: underline;}
 .markdown-body {
     max-width: 50vw;
     width: fit-content;
+    min-width: 45vw;
     height: fit-content;
-    /* max-height: 90vh; */
     margin: auto;
     /* margin: 2em auto 2em; */
     padding: 1em 2em;
-    background-color: #fcfcfc;
-    box-shadow: #667987 0 0 3px;
+    color: #0a1418;
+    background-color: #dcecfc;
+    box-shadow: #667987 0 0 10px;
 }
 @media (prefers-color-scheme: dark) {
-    * {filter: invert(1);}
+    body {
+        background: #e7e9eb;
+        background: radial-gradient(circle, #101e25 70%, #000405 100%);
+    }
+    a {color: #85adde;}
+    a:visited {color: #d48fd4;}
+    .markdown-body {
+        color: #dcecfc;
+        background-color: #0a1418;
+        box-shadow: #000 0 0 10px;
+    }
 }
