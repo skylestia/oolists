@@ -1,3 +1,23 @@
+html,body {margin: 0;padding: 0;}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    font-family: Roboto;
+    background: #f0f9fe;
+    background: radial-gradient(circle, #f0f9fe 70%, #8e989c 100%);
+}
+.markdown-body {
+    max-width: 50vw;
+    width: fit-content;
+    height: fit-content;
+    max-height: 90vh;
+    margin: auto;
+    /* margin: 2em auto 2em; */
+    padding: 1em 2em;
+    background-color: #fcfcfc;
+    box-shadow: #667987 0 0 3px;
+}
 @media (prefers-color-scheme: dark) {
-    html,body {filter: invert(1);}
+    * {filter: invert(1);}
 }

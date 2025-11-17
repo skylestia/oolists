@@ -3,7 +3,7 @@ layout: default
 title: Web Browsers
 ---
 
-This page: [https://skylestia.github.io/oolists/virtual/software/web-browsers](/virtual/software/web-browsers)
+This page: [https://skylestia.github.io/oolists/virtual/software/web-browsers](/virtual/software/web-browsers/)
 
 Software that can be used to browse the web (on desktop computers).
 
