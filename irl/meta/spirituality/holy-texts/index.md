@@ -3,7 +3,7 @@ layout: default
 title: Holy Texts
 ---
 
-This page: [https://skylestia.github.io/oolists/irl/meta/holy-texts/](/irl/meta/spirituality/holy-texts/)
+This page: [https://skylestia.github.io/oolists/irl/meta/holy-texts/](#)
 
 Read the scriptures and holy texts of world religions online, free.
 
