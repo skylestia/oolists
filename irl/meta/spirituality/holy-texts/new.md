@@ -33,7 +33,9 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 ## Discord
 
 ## Dudeism
+- [The Tao of the Dude](https://mega.nz/file/aN0nlYhJ#9vnifzUPPk8OlWmOZbbu-jr1yOJPn_9zcwBZaN6hz1Q)
 - [Dudeist Library](https://dudeism.com/library/)
+- [Dudeist Manifesto](https://dudeism.com/takeiteasymanifesto/)
 
 ## Eightvolumism
 - [The Eight Volumes](https://editor.reedsy.com/s/VmM3Cxr/c/Zf3Wqu_S9n-F28-j/the-eight-volumes)
