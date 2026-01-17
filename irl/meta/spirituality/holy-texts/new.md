@@ -32,8 +32,10 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 
 ## Discord
 
-## Dudeism
-- [The Tao of the Dude](https://mega.nz/file/aN0nlYhJ#9vnifzUPPk8OlWmOZbbu-jr1yOJPn_9zcwBZaN6hz1Q)
+## Dudeism - [official website](https://dudeism.com/)
+- [The Tao Te Ching - commentary by Oliver Benjamin](https://daoism.org/the-tao-te-ching/) (primary scripture)
+- [The Tao of the Dude](https://mega.nz/file/aN0nlYhJ#9vnifzUPPk8OlWmOZbbu-jr1yOJPn_9zcwBZaN6hz1Q) (primary scripture)
+- [The Dude de Ching](https://mega.nz/file/TI8m0YyQ#cZfZL2rJ4XEh3fPLaBRr3fX9qIUpyfjX1_MMfFjnUoY) (primary scripture)
 - [Dudeist Library](https://dudeism.com/library/)
 - [Dudeist Manifesto](https://dudeism.com/takeiteasymanifesto/)
 
