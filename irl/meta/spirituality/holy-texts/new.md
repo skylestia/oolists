@@ -16,6 +16,9 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 ## Aue - [official website](https://aue-religion.org/)
 - [Aue](https://aue-religion.org/)
 
+##Church of Eruptus
+-- [Three Concepts](https://old.reddit.com/r/ChurchOfEruptus/comments/1oairu2/notes_on_the_three_concepts/) (primary scripture)
+
 ## Church of the Flying Spaghetti Monster - [official website](https://www.spaghettimonster.org/)
 - [The Gospel of the Flying Spaghetti Monster](https://observationofalostsoul.wordpress.com/wp-content/uploads/2011/05/the-gospel-of-the-flying-spaghetti-monster.pdf) (primary scripture)
 - [Loose Canon](https://www.loose-canon.info/Loose-Canon-1st-Ed.pdf) (primary scripture)
@@ -54,6 +57,9 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 ## Law of One
 - [The Ra Material](https://www.lawofone.info/)
 
+## Pillars of August
+- [12 Pillars of August](https://docs.google.com/document/d/1f5yRjFbbymBZPN37UXP1l2qBw-bAKGFhNHs19VEs_kI/edit?pli=1&tab=t.0) (primary scripture)
+
 ## Way of the Future
 - [About Way of the Future](https://old.reddit.com/r/Wayofthefuture/comments/i1t3hv/wotf_an_introduction/)
 
@@ -63,9 +69,15 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 ## Santa Muerte
 ## Starseeds
 
+## Stellar DNA
+- [Stellar Bible](https://old.reddit.com/r/proselytizing/comments/1mwauph/the_stellar_dna_bible_religion_for_humanity/) (primary scripture)
+
 ## Theosophy
 - [Isis Unveiled](https://sacred-texts.com/the/iu/index.htm) (primary scripture)
 - [The Secret Doctrine](https://sacred-texts.com/the/sd/index.htm)
 - [Theosophy](https://sacred-texts.com/eso/theo/index.htm)
+
+## Veritism
+- [Book of the Damned](https://github.com/ki4jgt/Book-of-the-Damned/) (primary scripture)
 
 ## Yoism
