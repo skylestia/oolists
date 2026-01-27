@@ -17,7 +17,7 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 - [Aue](https://aue-religion.org/)
 
 ##Church of Eruptus
--- [Three Concepts](https://old.reddit.com/r/ChurchOfEruptus/comments/1oairu2/notes_on_the_three_concepts/) (primary scripture)
+- [Three Concepts](https://old.reddit.com/r/ChurchOfEruptus/comments/1oairu2/notes_on_the_three_concepts/) (primary scripture)
 
 ## Church of the Flying Spaghetti Monster - [official website](https://www.spaghettimonster.org/)
 - [The Gospel of the Flying Spaghetti Monster](https://observationofalostsoul.wordpress.com/wp-content/uploads/2011/05/the-gospel-of-the-flying-spaghetti-monster.pdf) (primary scripture)
