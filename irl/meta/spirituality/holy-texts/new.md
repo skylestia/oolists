@@ -67,6 +67,10 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 - [Intelligent Design](https://www.rael.org/eb/intelligent_design_en/)
 
 ## Santa Muerte
+
+## Solarism
+- [Solarism Statement](https://old.reddit.com/r/proselytizing/comments/1horw29/rsolarism/) (primary scripture)
+
 ## Starseeds
 
 ## Stellar DNA
