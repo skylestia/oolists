@@ -12,6 +12,7 @@ Read the scriptures and holy texts of world religions online, free.
 - [Folk Religions](folk.md)
 - [Pagan Religions](pagan.md)
 - [New-Religious Movements and New-Age Traditions](new.md)
+- [Occult](occult.md)
 - [Cults](cults.md)
 
 ----

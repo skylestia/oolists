@@ -29,15 +29,18 @@ The Subreddit is down and there doesn't seem to be any other source.
 - [The Loose Canon](https://mega.nz/file/yQEnlS7Z#lccG4urzEr-x86Pl6MFTL9zzlYiYpI7tguDIO8zT52s) (primary scripture)
 
 ## Church of Nebula - [official website](https://nebula.church/)
-- [The Book of Zella](https://nebula.church/resources/books/The_Book_of_Zella_Original_Manuscript.pdf) (primary scripture)
-- [Zella's Quotes](https://nebula.church/resources/books/Zella-Quotes.pdf)
+- [The Kybalion](https://mega.nz/file/aFlUVZhK#EXdP_7RHMmPkk8Erz4vG7XO-zc7EGBxodLVBV2aNKAo) (primary scripture)
+- [The Kybalion - Centenary Edition](https://mega.nz/file/2dMgSJhB#111sfKtQzH9eJ9eMzxd7dhzY1_ZqEoqzce-FdcZomGQ)
+- [The Book of Zella](https://mega.nz/file/DUdhBLDC#U6eukDQRroYVeBA-mYRCzikplnN863UDqHG2ran-m68) (primary scripture)
+- [Zella's Quotes](https://mega.nz/file/KctyACwa#FsPJUReh53tbpua4H2Y7bqOhvFDzpxmjj8RiSVXPmWU)
 
 ## Church of the SubGenius - [official website](https://www.subgenius.com/)
-- [The Book of the SubGenius](https://www.scribd.com/doc/87027918/Book-of-the-Subgenius) (primary scripture)
-- [The Church of the SubGenius](https://sacred-texts.com/eso/bob/subman.htm)
-- [The Church of The SubGenius: Beer-Bust of The Gods](https://www.scribd.com/document/33675087/The-Church-of-the-SubGenius-Beer-Bust-of-the-Gods)
+- [The Book of the SubGenius](https://mega.nz/file/CFNU2SJY#3li7ZTHJ7cgF5CIy8UcQUdvWLrHKkeQXD9CyT9oS1I4) (primary scripture)
+- [The Church of The SubGenius: Beer-Bust of The Gods](https://mega.nz/file/uINy3a4J#STLGANuW_fK0FeH3tr_arcJPtrrCmoduEZM8MRmyO5M)
+- [Revelation X](https://mega.nz/file/actxxC4R#-Z_B85Oprdp_zym0BuMAmk0KettwNFcOHk2mto4d3_I)
+- [The SubGenius Manifesto](https://mega.nz/file/eMMSWaqK#Ma7zGal9FNUh5K8s5tmaqiy5YN7J0e38FIFFTzXWpX8)
 
-## Discord
+## Discordianism
 
 ## Dudeism - [official website](https://dudeism.com/)
 - [The Tao Te Ching - commentary by Oliver Benjamin](https://daoism.org/the-tao-te-ching/) (primary scripture)
@@ -79,11 +82,6 @@ The Subreddit is down and there doesn't seem to be any other source.
 
 ## Stellar DNA
 - [Stellar Bible](https://old.reddit.com/r/proselytizing/comments/1mwauph/the_stellar_dna_bible_religion_for_humanity/) (primary scripture)
-
-## Theosophy
-- [Isis Unveiled](https://sacred-texts.com/the/iu/index.htm) (primary scripture)
-- [The Secret Doctrine](https://sacred-texts.com/the/sd/index.htm)
-- [Theosophy](https://sacred-texts.com/eso/theo/index.htm)
 
 ## Veritism
 - [Book of the Damned](https://github.com/ki4jgt/Book-of-the-Damned/) (primary scripture)
