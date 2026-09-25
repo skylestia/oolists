@@ -9,9 +9,10 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 - [What is Aretéanism?](https://mega.nz/file/Td9mCLYI#EoLt6csnt4Nx9xKnAf9ijC1fY64vWHGvJEnna0wFoIA)
 
 ## Astronism - [official website](https://www.astronism.com/)
-- [The Omnidoxy](https://philpapers.org/archive/COMTO.pdf) (primary scripture)
-- [Astronism: the religion of the stars ](https://www.astronism.com/_files/ugd/86ca95_4c44284b679c4d85bb49bb811a794534.pdf?index=true)
-- [The Astronist Statement](https://www.astronism.com/_files/ugd/86ca95_0b4064b15b7649e09cb0244061b88ca2.pdf?index=true)
+- [The Omnidoxy](https://mega.nz/file/fZsjzBJD#h6NfiJrU7cxcFDcPhoLeWx7gX2FLD1t4RwUHtZ_926Q) (primary scripture)
+- [Astronism: the religion of the stars ](https://mega.nz/file/zR8hgYYC#vAYZcRydYqLiNuqVcqySrEHacUMVuluy1LrbJ975Z2E)
+- [The Astronist Statement](https://mega.nz/file/DA91nJIb#rif929EWqoHkX4wHDk_tJ--vVTlVvRTJdjWtFVQF4Pc)
+- [The Astronist System](https://mega.nz/file/fBVFQYCL#X3fWCLKhyeTZOkhVoUoLxNEauJx3ApLs3oswK-_By0M)
 
 ## Aue - [official website](https://aue4joy.github.io)
 - [Aue](https://mega.nz/file/7NdHERJQ#EGJKi1VIjbWDQ3s53EWdNfJLtG_YFE2gnH5cwVcNhK8) (primary scripture)
