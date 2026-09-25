@@ -19,13 +19,14 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 
     I manually archived Aue's scripture so that, if the website ever disappears or the religion dies, it isn't lost.
 
-##Church of Eruptus
-- [Three Concepts](https://old.reddit.com/r/ChurchOfEruptus/comments/1oairu2/notes_on_the_three_concepts/) (primary scripture)
+<!-- REMOVED FROM LISTING UNTIL/UNLESS AN ARCHIVED VERSION IS FOUND --
+The Subreddit is down and there doesn't seem to be any other source.
+## Church of Eruptus
+- [Three Concepts](https://old.reddit.com/r/ChurchOfEruptus/comments/1oairu2/notes_on_the_three_concepts/) (primary scripture) -->
 
 ## Church of the Flying Spaghetti Monster - [official website](https://www.spaghettimonster.org/)
-- [The Gospel of the Flying Spaghetti Monster](https://observationofalostsoul.wordpress.com/wp-content/uploads/2011/05/the-gospel-of-the-flying-spaghetti-monster.pdf) (primary scripture)
-- [Loose Canon](https://www.loose-canon.info/Loose-Canon-1st-Ed.pdf) (primary scripture)
-- [The Official Pastafarian Prayer Book](https://www.loose-canon.info/page53.htm)
+- [The Gospel of the Flying Spaghetti Monster](https://mega.nz/file/yQEnlS7Z#lccG4urzEr-x86Pl6MFTL9zzlYiYpI7tguDIO8zT52s) (primary scripture)
+- [The Loose Canon](https://mega.nz/file/yQEnlS7Z#lccG4urzEr-x86Pl6MFTL9zzlYiYpI7tguDIO8zT52s) (primary scripture)
 
 ## Church of Nebula - [official website](https://nebula.church/)
 - [The Book of Zella](https://nebula.church/resources/books/The_Book_of_Zella_Original_Manuscript.pdf) (primary scripture)
