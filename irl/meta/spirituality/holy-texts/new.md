@@ -6,15 +6,17 @@ title: New-Religious Movements and New-Age Traditions | Holy Texts
 # New-Religious Movements and New-Age Traditions
 
 ## Aretéanism - [official website](https://www.areteanism.org/)
-- [What is Aretéanism?](https://static1.squarespace.com/static/56d3f47162cd9444cfd30870/t/641cea64ac9fb5486d2e9c86/1679616614908/What_is_Areteanism_v3.pdf)
+- [What is Aretéanism?](https://mega.nz/file/Td9mCLYI#EoLt6csnt4Nx9xKnAf9ijC1fY64vWHGvJEnna0wFoIA)
 
 ## Astronism - [official website](https://www.astronism.com/)
-- [The Omnidoxy](ttps://philpapers.org/archive/COMTO.pdf) (primary scripture)
-- [Astronism: the religion of the stars ](ttps://www.astronism.com/_files/ugd/86ca95_4c44284b679c4d85bb49bb811a794534.pdf?index=true)
-- [The Astronist Statement](ttps://www.astronism.com/_files/ugd/86ca95_0b4064b15b7649e09cb0244061b88ca2.pdf?index=true)
+- [The Omnidoxy](https://philpapers.org/archive/COMTO.pdf) (primary scripture)
+- [Astronism: the religion of the stars ](https://www.astronism.com/_files/ugd/86ca95_4c44284b679c4d85bb49bb811a794534.pdf?index=true)
+- [The Astronist Statement](https://www.astronism.com/_files/ugd/86ca95_0b4064b15b7649e09cb0244061b88ca2.pdf?index=true)
 
-## Aue - [official website](https://aue-religion.org/)
-- [Aue](https://aue-religion.org/)
+## Aue - [official website](https://aue4joy.github.io)
+- [Aue](https://mega.nz/file/7NdHERJQ#EGJKi1VIjbWDQ3s53EWdNfJLtG_YFE2gnH5cwVcNhK8) (primary scripture)
+
+    I manually archived Aue's scripture so that, if the website ever disappears or the religion dies, it isn't lost.
 
 ##Church of Eruptus
 - [Three Concepts](https://old.reddit.com/r/ChurchOfEruptus/comments/1oairu2/notes_on_the_three_concepts/) (primary scripture)
