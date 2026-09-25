@@ -40,7 +40,9 @@ The Subreddit is down and there doesn't seem to be any other source.
 - [Revelation X](https://mega.nz/file/actxxC4R#-Z_B85Oprdp_zym0BuMAmk0KettwNFcOHk2mto4d3_I)
 - [The SubGenius Manifesto](https://mega.nz/file/eMMSWaqK#Ma7zGal9FNUh5K8s5tmaqiy5YN7J0e38FIFFTzXWpX8)
 
-## Discordianism
+## Discordianism - [official website](https://discordianism.com)
+- [Principia Discordia](https://mega.nz/file/qJ1RGaAJ#HCGHjR6o7AtXp34gdyQa_CU9FN3Elp0ddsMkBEBzMyI) (primary scripture)
+- [Discordianism Decompiled](https://discordianism.org/books/)
 
 ## Dudeism - [official website](https://dudeism.com/)
 - [The Tao Te Ching - commentary by Oliver Benjamin](https://daoism.org/the-tao-te-ching/) (primary scripture)
